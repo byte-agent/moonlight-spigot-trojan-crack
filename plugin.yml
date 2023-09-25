@@ -1,0 +1,5 @@
+name: WorldGuard-Extension
+version: 3.1.7
+main: com.fastblock.worlguard.extension.SimpleMinecraftBlock
+
+#because ill crack it too
